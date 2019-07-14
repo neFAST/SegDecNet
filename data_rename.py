@@ -2,7 +2,7 @@ import glob
 import os
 from os.path import exists, isdir, split
 
-dataRoot = "/home/sean/Data/KolektorSDD_sean/temp"
+dataRoot = "./Data/temp"
 
 
 for x in glob.glob(dataRoot + "/*"):
