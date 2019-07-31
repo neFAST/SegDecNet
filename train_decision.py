@@ -47,7 +47,7 @@ def main():
 
     print(opt)
 
-    dataSetRoot = "./Data" # "/home/sean/Data/KolektorSDD_sean"
+    dataSetRoot = "./Data/Train_NG" # "/home/sean/Data/KolektorSDD_sean"
 
     # ***********************************************************************
 
